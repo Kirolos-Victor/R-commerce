@@ -281,6 +281,6 @@
             $("#longitude").val(Lng);
         }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDDmW4TvEDf8aQNS8JZ_1VntGa6ON-en4Q&libraries=places&callback=initAutocomplete&language=ar&region=EG
+    <script src="https://maps.googleapis.com/maps/api/js?key=enter-key&libraries=places&callback=initAutocomplete&language=ar&region=EG
          async defer"></script>
 @endsection
